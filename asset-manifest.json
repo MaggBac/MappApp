@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MappApp/static/css/main.57580d01.css",
+    "main.js": "/MappApp/static/js/main.dc23438a.js",
+    "index.html": "/MappApp/index.html",
+    "main.57580d01.css.map": "/MappApp/static/css/main.57580d01.css.map",
+    "main.dc23438a.js.map": "/MappApp/static/js/main.dc23438a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57580d01.css",
+    "static/js/main.dc23438a.js"
+  ]
+}
